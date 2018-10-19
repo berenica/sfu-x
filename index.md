@@ -1,10 +1,10 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # dc (must be either "lc" or "dc" or "swc")
-venue: "FIXME"        # Simon Fraser University (e.g., "Euphoric State University")
-address: "FIXME"      # 515 West Hastings Street, Vancouver, British Columbia V6B 5K3
-country: "FIXME"      # ca
-language: "FIXME"     # en
+carpentry: "dc"    # dc (must be either "lc" or "dc" or "swc")
+venue: "Simon Fraser University"        # Simon Fraser University (e.g., "Euphoric State University")
+address: "515 West Hastings Street, Vancouver, British Columbia V6B 5K3"      # 515 West Hastings Street, Vancouver, British Columbia V6B 5K3
+country: "ca"      # ca
+language: "en"     # en
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
